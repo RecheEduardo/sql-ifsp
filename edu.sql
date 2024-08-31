@@ -8,7 +8,7 @@ create table nomes(
 );
 
 select * from nomes;
-insert into nomes(email,nome) values ('eduardoreche@gmail.com' , 'Duduzinho');
+insert into nomes(email,nome) values ('eduardoreche@gmail.com' , 'EduReche');
 
 create table if not exists myProducts(
 	id int auto_increment primary key,
